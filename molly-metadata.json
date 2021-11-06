@@ -1,0 +1,16 @@
+{
+    "attributes": [
+      {
+        "trait_type": "Breed",
+        "value": "German Shepherd"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Brown"
+      }
+    ],
+    "description": "The best girl",
+    "image": "https://gateway.pinata.cloud/ipfs/QmXXvxHvycoptJ66WEVu1R9TWsmW2V6Gf4v5Wv3u2c27Pw",
+    "name": "Molly"
+  }
+  

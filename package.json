@@ -1,0 +1,31 @@
+{
+  "name": "nft-test-project-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "npx hardhat compile",
+    "mint:molly": "node scripts/mint-molly.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tobthecreator/nft-test-project-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tobthecreator/nft-test-project-1/issues"
+  },
+  "homepage": "https://github.com/tobthecreator/nft-test-project-1#readme",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.2",
+    "ethers": "^5.5.1",
+    "hardhat": "^2.6.8"
+  },
+  "dependencies": {
+    "@alch/alchemy-web3": "^1.1.7",
+    "@openzeppelin/contracts": "^4.3.2",
+    "dotenv": "^10.0.0"
+  }
+}
